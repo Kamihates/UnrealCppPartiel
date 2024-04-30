@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/tdang/Documents/GitHub/UnrealCppPartiel/UnrealcppPartiel/Content/Map.umap",
+				"C:/Users/tdang/Documents/GitHub/UnrealCppPartiel/UnrealcppPartiel/Content/Material.uasset"
+			]
+		}
+	]
+}

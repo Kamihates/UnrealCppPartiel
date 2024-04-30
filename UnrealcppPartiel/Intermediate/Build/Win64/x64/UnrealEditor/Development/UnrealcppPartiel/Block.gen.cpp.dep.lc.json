@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\tdang\\documents\\github\\unrealcpppartiel\\unrealcpppartiel\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealcpppartiel\\uht\\block.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tdang\\documents\\github\\unrealcpppartiel\\unrealcpppartiel\\intermediate\\build\\win64\\x64\\unrealcpppartieleditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\tdang\\documents\\github\\unrealcpppartiel\\unrealcpppartiel\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealcpppartiel\\definitions.unrealcpppartiel.h",
+            "c:\\users\\tdang\\documents\\github\\unrealcpppartiel\\unrealcpppartiel\\source\\unrealcpppartiel\\block.h",
+            "c:\\users\\tdang\\documents\\github\\unrealcpppartiel\\unrealcpppartiel\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealcpppartiel\\uht\\block.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

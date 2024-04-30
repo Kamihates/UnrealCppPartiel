@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UnrealcppPartiel.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealcppPartiel.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UnrealcppPartielEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UnrealcppPartiel">
+      <UniqueIdentifier>{0254E88B-5825-3A70-93DB-CD761C71BAF3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\UnrealcppPartiel\Block.cpp">
+      <Filter>Source\UnrealcppPartiel</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealcppPartiel\Block.h">
+      <Filter>Source\UnrealcppPartiel</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealcppPartiel\PlayerBall.cpp">
+      <Filter>Source\UnrealcppPartiel</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealcppPartiel\PlayerBall.h">
+      <Filter>Source\UnrealcppPartiel</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\UnrealcppPartiel\UnrealcppPartiel.Build.cs">
+      <Filter>Source\UnrealcppPartiel</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UnrealcppPartiel\UnrealcppPartiel.cpp">
+      <Filter>Source\UnrealcppPartiel</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealcppPartiel\UnrealcppPartiel.h">
+      <Filter>Source\UnrealcppPartiel</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

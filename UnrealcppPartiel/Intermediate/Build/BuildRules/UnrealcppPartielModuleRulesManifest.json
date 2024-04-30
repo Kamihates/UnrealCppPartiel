@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\tdang\\Documents\\GitHub\\UnrealCppPartiel\\UnrealcppPartiel\\Source\\UnrealcppPartiel\\UnrealcppPartiel.Build.cs",
+		"C:\\Users\\tdang\\Documents\\GitHub\\UnrealCppPartiel\\UnrealcppPartiel\\Source\\UnrealcppPartiel.Target.cs",
+		"C:\\Users\\tdang\\Documents\\GitHub\\UnrealCppPartiel\\UnrealcppPartiel\\Source\\UnrealcppPartielEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.1"
+}

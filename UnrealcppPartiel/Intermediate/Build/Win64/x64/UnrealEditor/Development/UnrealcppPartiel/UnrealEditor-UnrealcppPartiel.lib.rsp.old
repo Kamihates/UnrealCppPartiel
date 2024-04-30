@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UnrealcppPartiel.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\tdang\Documents\GitHub\UnrealCppPartiel\UnrealcppPartiel\Intermediate\Build\Win64\x64\UnrealcppPartielEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\tdang\Documents\GitHub\UnrealCppPartiel\UnrealcppPartiel\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealcppPartiel\Block.gen.cpp.obj"
+"C:\Users\tdang\Documents\GitHub\UnrealCppPartiel\UnrealcppPartiel\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealcppPartiel\UnrealcppPartiel.init.gen.cpp.obj"
+"C:\Users\tdang\Documents\GitHub\UnrealCppPartiel\UnrealcppPartiel\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealcppPartiel\Block.cpp.obj"
+"C:\Users\tdang\Documents\GitHub\UnrealCppPartiel\UnrealcppPartiel\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealcppPartiel\UnrealcppPartiel.cpp.obj"
+"C:\Users\tdang\Documents\GitHub\UnrealCppPartiel\UnrealcppPartiel\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealcppPartiel\Default.rc2.res"
+/OUT:"C:\Users\tdang\Documents\GitHub\UnrealCppPartiel\UnrealcppPartiel\Intermediate\Build\Win64\x64\UnrealEditor\Development\UnrealcppPartiel\UnrealEditor-UnrealcppPartiel.lib"
